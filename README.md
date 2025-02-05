@@ -1,4 +1,4 @@
-# Before and After Documents - Technical Writing Portfolio
+# Before and After Documents
 
 This repository showcases sample documents demonstrating my process of enhancing technical content through research, collaboration, and editing. Each set of documents includes a **Before** version (the original document) and an **After** version (the enhanced document) that has been researched, verified for accuracy with Subject Matter Experts (SMEs), programmers, support techs, and end-users, and then formatted for publication.
 
